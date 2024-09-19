@@ -3,20 +3,22 @@ JavaScript использовал для навигации, валидной ф
 
 Вот сам проект https://balakovskiybro.github.io/AutoCenter/
 
+
+
 Чтобы открыть проект локально, необходимо выполнить следующие шаги:
 
 
 
-1. 
+**Первый шаг**:
 ![image](https://github.com/user-attachments/assets/ad61d9ac-d3c8-4832-ba4b-52ad21ade187)
 
 
 
-2.
+**Второй шаг**:
 ![image](https://github.com/user-attachments/assets/5bbdf462-708e-47cc-bd14-c426715647e5)
 
 
 
-3. Разархивируете и открываете с помощью редактора кода
+**Третий шаг**: Разархивируете и открываете с помощью редактора кода
 
 
