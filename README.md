@@ -10,11 +10,13 @@ JavaScript использовал для навигации, валидной ф
 
 
 **Первый шаг**:
+
 ![image](https://github.com/user-attachments/assets/ad61d9ac-d3c8-4832-ba4b-52ad21ade187)
 
 
 
 **Второй шаг**:
+
 ![image](https://github.com/user-attachments/assets/5bbdf462-708e-47cc-bd14-c426715647e5)
 
 
