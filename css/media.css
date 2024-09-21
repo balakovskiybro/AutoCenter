@@ -511,6 +511,9 @@
     .info-white {
         max-width: 97px;
     }
+    .header__menu{
+        justify-content: end;
+    }
 }
 
 @media(max-width: 711px) {
@@ -558,6 +561,9 @@
 }
 
 @media(max-width: 619px) {
+    .header{
+        margin-top: 20px;
+    }
     .hero__img {
         max-width: 375px;
         right: -20px;
@@ -675,25 +681,28 @@
 }
 
 @media(max-width: 450px) {
-
+    .header__img {
+        max-width: 60px;
+        max-height: 46px;
+    }
     .hero__img {
-        max-width: 295px;
+        max-width: 275px;
         right: -20px;
-        top: 140px;
+        top: 120px;
     }
 
     .btn {
         font-size: 8px;
-        padding: 8px 16px;
+        padding: 4px 12px;
     }
 
     .hero__title {
-        font-size: 15px;
-        line-height: 21px;
+        font-size: 13px;
+        line-height: 18px;
     }
 
     .hero {
-        padding: 30px 0 30px 20px;
+        padding: 20px 0 20px 25px;
     }
 
     .hero__text {
@@ -706,7 +715,6 @@
     }
 
     .footer__contacts {
-        flex-direction: column;
         row-gap: 10px;
     }
 
@@ -729,5 +737,32 @@
 
     .japan__button {
         font-size: 8px;
+    }
+    .info__win-list {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .cars__img {
+        max-width: 400px;
+    }
+    .cars__wrapper {
+        min-width: 405px;
+        padding: 15px;
+    }
+    .cars__wrap {
+        padding: 0px;
+    }
+    .info__wrapper{
+        column-gap: 20px;
+        padding: 15px 25px;
+    }
+    .info__logo{
+        margin: auto;
+    }
+    .japan__img {
+        max-width: 175px;
+    }
+    .hero__container {
+        row-gap: 15px;
+        max-width: 160px;
     }
 }
