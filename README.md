@@ -25,6 +25,9 @@ JavaScript использовал для навигации, валидной ф
 
 
 
+
+
+
 **Скорость загрузки сайта**
 
 ![image](https://github.com/user-attachments/assets/42f11fe8-e6a0-43bd-a675-af48fd9d6a67)
