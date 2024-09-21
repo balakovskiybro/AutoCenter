@@ -54,7 +54,7 @@ form.addEventListener('submit', (evt) => {
 
 // Свайпер
 var swiper = new Swiper('.mySwiper', {
-  rewind: true,
+  loop: true,
   slidesPerView: 3,
   grid: {
       rows: 2,
