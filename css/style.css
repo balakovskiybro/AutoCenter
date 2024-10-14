@@ -637,7 +637,6 @@ body {
 .info__win-list {
   display: -ms-grid;
   display: grid;
-  -ms-grid-columns: (1fr)[7];
   grid-template-columns: repeat(7, 1fr);
   grid-auto-columns: 1fr;
   padding: 24px 20px;
@@ -993,7 +992,6 @@ h5 {
 .footer__top {
   display: -ms-grid;
   display: grid;
-  -ms-grid-columns: (1fr)[2];
   grid-template-columns: repeat(2, 1fr);
   padding-bottom: 40px;
   border-bottom: 2px solid rgb(59, 59, 59);
@@ -1066,7 +1064,6 @@ h5 {
   margin-top: 24px;
   display: -ms-grid;
   display: grid;
-  -ms-grid-columns: (1fr)[2];
   grid-template-columns: repeat(2, 1fr);
 }
 
